@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.70a4a2d8.css",
-    "main.js": "/My-Portfolio/static/js/main.e3e576de.js",
+    "main.css": "/My-Portfolio/static/css/main.2870ab55.css",
+    "main.js": "/My-Portfolio/static/js/main.6355cda1.js",
     "static/media/MealOpedia.png": "/My-Portfolio/static/media/MealOpedia.ee5fa3827b497b310e99.png",
     "static/media/face-recognition-attendance-system.jpg": "/My-Portfolio/static/media/face-recognition-attendance-system.ccf4ef1b5776dc4a6551.jpg",
     "static/media/mohitResume.pdf": "/My-Portfolio/static/media/mohitResume.93a569af6fb7bb37bbdb.pdf",
@@ -16,11 +16,11 @@
     "static/media/fake-news.jpg": "/My-Portfolio/static/media/fake-news.ec8d8856fefcf13191e8.jpg",
     "static/media/javascript.png": "/My-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.70a4a2d8.css.map": "/My-Portfolio/static/css/main.70a4a2d8.css.map",
-    "main.e3e576de.js.map": "/My-Portfolio/static/js/main.e3e576de.js.map"
+    "main.2870ab55.css.map": "/My-Portfolio/static/css/main.2870ab55.css.map",
+    "main.6355cda1.js.map": "/My-Portfolio/static/js/main.6355cda1.js.map"
   },
   "entrypoints": [
-    "static/css/main.70a4a2d8.css",
-    "static/js/main.e3e576de.js"
+    "static/css/main.2870ab55.css",
+    "static/js/main.6355cda1.js"
   ]
 }
