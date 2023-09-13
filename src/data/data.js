@@ -9,7 +9,7 @@ export const data=[
         name:"ShopIt ecommerce Website",
         image:ShopIt,
         github:"https://github.com/MohitBhatt07/ShopIt",
-        live:"https://64ff4521866787253517baff--guileless-kheer-4a94a7.netlify.app/",
+        live:"https://shop-it-app.netlify.app/",
     },
     {
         id:2,
