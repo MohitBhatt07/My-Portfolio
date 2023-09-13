@@ -28,7 +28,7 @@ export const data=[
     
     {
         id:4,
-        name:"fsaf",
+        name:"Face Recognition Project",
         image:faceRecognition,
         github:"https://github.com/MohitBhatt07/Face-Recognition-based-attendance-system",
         live:"https://github.com/MohitBhatt07/Face-Recognition-based-attendance-system",
